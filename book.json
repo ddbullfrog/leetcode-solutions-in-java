@@ -1,0 +1,16 @@
+{
+    "gitbook": "2.x.x",
+    "plugins": [
+        "disqus"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "leetcodesolutionsinjava"
+        }
+    },
+    "links": {
+        "sidebar": {
+            "Contact": ""
+        }
+    }
+}

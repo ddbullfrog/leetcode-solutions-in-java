@@ -1,5 +1,11 @@
-My Leetcode Book
-=======
+# LeetCode Solutions In Java
 
-My Leetcode Book
+This book contains all my notes and solutions for questions in Leetcode.
+
+Please note:
+
+* All solutions are in Java.
+* You can leave your comments on each page.
+
+
 
