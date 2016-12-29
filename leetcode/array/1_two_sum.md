@@ -4,9 +4,9 @@
 
 [https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/ "https://leetcode.com/problems/two-sum/")
 
-Given an array of integers, return**indices**of the two numbers such that they add up to a specific target.
+Given an array of integers, return **indices** of the two numbers such that they add up to a specific target.
 
-You may assume that each input would have**exactly**one solution.
+You may assume that each input would have **exactly** one solution.
 
 **Example:**
 

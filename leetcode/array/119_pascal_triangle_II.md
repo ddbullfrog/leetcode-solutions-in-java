@@ -2,7 +2,7 @@
 
 ### Question:
 
-[https://leetcode.com/problems/pascals-triangle-ii/](https://leetcode.com/problems/pascals-triangle-ii// "https://leetcode.com/problems/pascals-triangle-ii/")
+[https://leetcode.com/problems/pascals-triangle-ii/](https://leetcode.com/problems/pascals-triangle-ii/ "https://leetcode.com/problems/pascals-triangle-ii/")
 
 Given an index k, return the kth row of the Pascal's triangle.
 
